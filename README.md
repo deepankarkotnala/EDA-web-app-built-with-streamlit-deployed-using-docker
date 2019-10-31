@@ -26,4 +26,7 @@
 
 ![Streamlit App](https://github.com/deepankarkotnala/EDA-web-app-built-with-streamlit-deployed-using-docker/blob/master/images/running_app.png)
 
-### Voila!!
+Here's a [link](https://github.com/deepankarkotnala/EDA-web-app-built-with-streamlit-deployed-using-docker/blob/master/images/Demo.mkv?raw=true) to download the Video Demo where I showcase what this EDA App does! 
+
+
+## Voila!!
