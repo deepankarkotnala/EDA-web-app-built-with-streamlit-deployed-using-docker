@@ -1,6 +1,6 @@
 # EDA-web-app-built-with-streamlit-deployed-using-docker
 
-## Not sharing the code on GitHub. Check the Video Demo. Link provided at the bottom of this page!
+## Not sharing the code on GitHub. Check the Video Demo. Link provided at the bottom of this page
 
 * Build docker image from containing our streamlit app
 
@@ -28,7 +28,5 @@
 
 ![Streamlit App](https://github.com/deepankarkotnala/EDA-web-app-built-with-streamlit-deployed-using-docker/blob/master/images/running_app.png)
 
-Here's a [link](https://github.com/deepankarkotnala/EDA-web-app-built-with-streamlit-deployed-using-docker/blob/master/images/Demo.mkv?raw=true) to download the Video Demo where I showcase what this EDA App does! 
+Here's a [link](https://github.com/deepankarkotnala/EDA-web-app-built-with-streamlit-deployed-using-docker/blob/master/images/Demo.mkv?raw=true) to download a video explaining the working of this app.
 
-
-## Voila!!
